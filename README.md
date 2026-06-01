@@ -86,7 +86,6 @@ I'm a CS student passionate about building things for the web. Currently diving 
 | | |
 |---|---|
 | 📧 Email | shivanshrai282@gmail.com |
-| 📱 Phone | +91 8920356848 |
 | 💼 LinkedIn | [shivansh-rai-229707327](https://www.linkedin.com/in/shivansh-rai-229707327) |
 | 🟡 LeetCode | [shivansh1824](https://leetcode.com/shivansh1824) |
 
