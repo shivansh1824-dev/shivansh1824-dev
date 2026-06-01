@@ -10,7 +10,7 @@ Hi, I'm Shivansh Rai👋
   CS Student  ·  Aspiring Full-Stack Developer  ·  MERN Stack Learner
 
 
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=MERN+Stack+Developer;React+Enthusiast;DSA+Practitioner)
 
 
 
@@ -37,7 +37,7 @@ Hi, I'm Shivansh Rai👋
 I'm a CS student passionate about building things for the web. Currently diving deep into the **MERN stack**, with a strong focus on frontend development — React, responsive layouts, and clean UI. I enjoy solving problems and improving my craft one commit at a time.
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=shivansh1824-dev&color=blue&style=flat-square)
 ## Tech stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -64,7 +64,7 @@ I'm a CS student passionate about building things for the web. Currently diving 
 > 69 problems solved and counting!
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/shivansh1824?theme=light&font=Karma&ext=heatmap)](https://leetcode.com/shivansh1824)
-
+&theme=dark&hide_border=true
 ---
 
 ## GitHub stats
@@ -74,6 +74,8 @@ I'm a CS student passionate about building things for the web. Currently diving 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh1824-dev&layout=compact&hide_border=true)
 
 ---
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivansh1824-dev&theme=github-dark)
 
 ## GitHub streak
 
